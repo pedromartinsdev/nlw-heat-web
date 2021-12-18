@@ -16,8 +16,8 @@
 
 <h5>📸 Screenshots<h5>
 <p align="center">
-<img width="500px" src="/assets/Login_screen.png"></img>
-<img width="500px" src="/assets/Message_screen.png"></img>
+<img src="/assets/Login_screen.png"></img>
+<img src="/assets/Message_screen.png"></img>
 </p>
 
 <h4>🧰 Stack</h4>
