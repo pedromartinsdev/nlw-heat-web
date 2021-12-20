@@ -4,7 +4,7 @@
 <img src="/assets/logo_nlw.png"></img>
 </p>
 
-<h4>📚 Funcionalidades</h4>
+<h3>📚 Funcionalidades</h3>
 
 <p>Durante a NLW Heat desenvolvemos o backend de uma aplicação que permite ao usuário:</p>
 
@@ -20,7 +20,7 @@
 <img src="/assets/Message_screen.png"></img>
 </p>
 
-<h4>🧰 Stack</h4>
+<h3>🧰 Stack</h3>
 
 <li>Typescript</li>
 <li>ReactJs</li>
@@ -36,5 +36,5 @@
 <a href="https://github.com/pedromartinsdev/nlw-heat-backend"> 💻 Backend </a> dessa aplicação </p>
 
 
-<h4>📘 Créditos</h4>
+<h3>📘 Créditos</h3>
 <a href="https://app.rocketseat.com.br/dashboard"> 🚀 Rocketseat </a>
