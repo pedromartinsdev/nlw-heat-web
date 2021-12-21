@@ -1,4 +1,4 @@
-<h1>Next Level Week - Heat</h1>
+<h1 align="center">Next Level Week - Heat</h1>
 
 <p align="center">
 <img src="/assets/logo_nlw.png"></img>
@@ -30,9 +30,7 @@
 <h2>🚀 Como executar</h2>
 
 <li>Para testar a aplicação basta dar um <code>git clone</code></li>
-<li>Renomeie o arquivo <code>.env.examle</code> para <code>.env</code> e preencha com suas credenciais do GitHub </li>
 <li>Execute o comando <code>yarn</code> para instalar as dependências.</li>
-<li>Executa as migrations com <code>yarn prisma migrate dev</code></li>
 <li>Inicie a aplicação com <code>yarn dev</code></li>
 
 <br>
