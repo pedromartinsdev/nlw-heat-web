@@ -1,10 +1,10 @@
-<h2>Next Level Week - Heat</h2>
+<h1>Next Level Week - Heat</h1>
 
 <p align="center">
 <img src="/assets/logo_nlw.png"></img>
 </p>
 
-<h3>📚 Funcionalidades</h3>
+<h2>📚 Funcionalidades</h2>
 
 <p>Durante a NLW Heat desenvolvemos o backend de uma aplicação que permite ao usuário:</p>
 
@@ -14,13 +14,11 @@
 <li>Vizualizar os três últimos comentários</li>
 </ul>
 
-<h5>📸 Screenshots<h5>
 <p align="center">
-<img src="/assets/Login_screen.png"></img>
-<img src="/assets/Message_screen.png"></img>
+<img src="/assets/demo_app.gif"></img>
 </p>
 
-<h3>🧰 Stack</h3>
+<h2>🧰 Stack</h2>
 
 <li>Typescript</li>
 <li>ReactJs</li>
@@ -29,12 +27,18 @@
 <li>HTML</li>
 <li>Vite</li>
 
-<br>
+<h2>🚀 Como executar</h2>
 
-<p> Para testar a aplicação basta dar um <code>git clone</code> nesse repositório e executar o comando <code>yarn</code> ou <code>npm</code> para instalar as dependências.
+<li>Para testar a aplicação basta dar um <code>git clone</code></li>
+<li>Renomeie o arquivo <code>.env.examle</code> para <code>.env</code> e preencha com suas credenciais do GitHub </li>
+<li>Execute o comando <code>yarn</code> para instalar as dependências.</li>
+<li>Executa as migrations com <code>yarn prisma migrate dev</code></li>
+<li>Inicie a aplicação com <code>yarn dev</code></li>
+
+<br>
 
 <a href="https://github.com/pedromartinsdev/nlw-heat-backend"> 💻 Backend </a> dessa aplicação </p>
 
 
-<h3>📘 Créditos</h3>
+<h2>📘 Créditos</h2>
 <a href="https://app.rocketseat.com.br/dashboard"> 🚀 Rocketseat </a>
